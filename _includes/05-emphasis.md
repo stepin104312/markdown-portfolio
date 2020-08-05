@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+journey at ltts*
+_love to be part of ltts_
+
+**Trying github is fun**
+__woah__
+
+_happy **with** GITHUB_
